@@ -1,0 +1,5 @@
+(executable
+  ((name        stats)
+   (public_name gh-org-stats)
+   (libraries   (astring fmt github-unix lwt.unix re
+                 cmdliner logs.cli logs.fmt fmt.cli fmt.tty))))
