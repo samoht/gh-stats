@@ -28,3 +28,5 @@ yallop: 183
 djwillia: 139
 [...]
 ```
+
+Note: this automatically excludes forks and mirrors.
