@@ -3,7 +3,7 @@
 Example:
 
 ```
-gh-stats mirage solo5 mirleft
+$ gh-stats mirage solo5 mirleft
 
 solo5, mirage and mirleft have 213 contributors (for a total of 35987 contributions).
 avsm: 9635
